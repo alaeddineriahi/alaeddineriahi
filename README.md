@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 Current Focus: Building my skills in AI, machine learning, and Java, with a passion for tackling complex problems.<br>🤝 Collaboration Goals: Exciting projects in AI, data-driven solutions, or anything that challenges my problem-solving skills.<br>👐 Open to Help With: Connecting with others in AI, machine learning, or innovative problem-solving.<br>🌱 Always Learning: Java, AI, machine learning, and advanced problem-solving.<br>💬 Ask Me About: Game development, C/C++ desktop apps, websites, mobile apps, and solving tough coding problems.<br>⚡ Fun Fact: I'm always ready for a coding challenge!
+<a href="https://app.daily.dev/alaeddineriahi"><img src="https://api.daily.dev/devcards/v2/kFL6KlP0tQwzls678Vy4P.png?type=default&r=vme" width="356" alt="Ala-Eddine Riahi's Dev Card"/></a>
 
 
 ## 🌐 Socials:
