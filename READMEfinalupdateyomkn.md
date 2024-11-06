@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,bash,linux,arduino,git,,mysql&perline=8" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,bash,linux,arduino,git,&perline=8" alt="Tech Stack"/>
   </a>
 </p>
 
