@@ -8,7 +8,7 @@
   <a><img src="https://komarev.com/ghpvc/?username=alaeddineriahi&label=Profile%20views&color=a88eff&style=flat" alt="alaeddineriahi" /></a>
   <a href="https://github.com/alaeddineriahi?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/alaeddineriahi?color=ceb011&style=Star-yellow.svg&logo=star"/></a>
   <a href="https://user-badge.committers.top/tunisia/alaeddineriahi"><img src="https://user-badge.committers.top/tunisia/alaeddineriahi.svg" alt="committers.top Tunisia"></a>
-  <a href="https://wakatime.com/@cc489cd5-4341-43c0-8c5a-1e6cd99b30ac"><img src="https://wakatime.com/badge/user/cc489cd5-4341-43c0-8c5a-1e6cd99b30ac.svg" alt="Total time coded since Jun 1 2023" /></a>
+ <a href="https://wakatime.com/@cc489cd5-4341-43c0-8c5a-1e6cd99b30ac"><img src="https://wakatime.com/badge/user/cc489cd5-4341-43c0-8c5a-1e6cd99b30ac.svg" alt="Total time coded since Nov 6 2024" /></a>
 </p>
 
 ## 🛠️ Tech Stack
