@@ -10,8 +10,8 @@
   <a href="https://user-badge.committers.top/tunisia/alaeddineriahi">
     <img src="https://user-badge.committers.top/tunisia/alaeddineriahi.svg" alt="Committers.top Tunisia"/>
   </a>
-  <a href="https://wakatime.com/@cc489cd5-4341-43c0-8c5a-1e6cd99b30ac">
-    <img src="https://wakatime.com/badge/user/cc489cd5-4341-43c0-8c5a-1e6cd99b30ac.svg](https://wakatime.com/badge/user/cc489cd5-4341-43c0-8c5a-1e6cd99b30ac.svg" alt="Total time coded"/>
+<a href="https://wakatime.com/@cc489cd5-4341-43c0-8c5a-1e6cd99b30ac">
+    <img src="https://wakatime.com/badge/user/cc489cd5-4341-43c0-8c5a-1e6cd99b30ac.svg" alt="Total time coded since Nov 6 2024" />
   </a>
 </p>
 
