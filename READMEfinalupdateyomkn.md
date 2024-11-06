@@ -25,8 +25,11 @@
 
 ## 🔧 Frameworks
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=symfony,flask,selenium,bootstrap,jquery&perline=5" alt="Frameworks"/></a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=symfony,javafx,qt,flutter&perline=4" alt="Frameworks"/>
+  </a>
 </p>
+
 
 ## 📈 GitHub Stats
 <p align="center">
