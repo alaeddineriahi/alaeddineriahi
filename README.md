@@ -1,41 +1,22 @@
-# Hi 👋, I'm Ala Riahi
+<p align="center">
+  <a><img src="https://komarev.com/ghpvc/?username=alaeddineriahi&label=Profile%20views&color=a88eff&style=flat" alt="alaeddineriahi" /></a>
+  <a href="https://github.com/alaeddineriahi?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/alaeddineriahi?color=ceb011&style=Star-yellow.svg&logo=star"/></a>
+  <a href="https://user-badge.committers.top/tunisia/alaeddineriahi"><img src="https://user-badge.committers.top/tunisia/alaeddineriahi.svg" alt="committers.top Tunisia"></a>
+  <a href="https://wakatime.com/@your-wakatime-id"><img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Total time coded since Jun 1 2023" /></a>
+</p>
 
-A Computer Engineering Student passionate about AI and machine learning. 
+## 💻 Skills
 
-For business inquiries, contact me at [your-email@example.com].
+<p align="left">
+  [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,bash&perline=14)]()
+  [![My Skills](https://skillicons.dev/icons?i=linux,arduino,git,githubactions,mysql,qt,azure&perline=20)]()
+  ![Oracle](https://raw.githubusercontent.com/alaeddineriahi/skill-icons/main/icons/Oracle-Dark.svg)
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=alaeddineriahi&color=blueviolet) 
-![Stars](https://img.shields.io/github/stars/alaeddineriahi?style=flat&color=yellow) 
-![Commits](https://img.shields.io/github/commit-activity/y/alaeddineriahi/repo-name?color=green)
+## 🔧 Frameworks
 
----
+<p align="left">
+  [![My Skills](https://skillicons.dev/icons?i=symfony,flask,selenium,bootstrap,jquery&perline=20)]()
+</p>
 
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1;">
-    <h3>Ala Riahi</h3>
-    <p>Joined GitHub recently</p>
-    <p>Followed by X users</p>
-
-    ### Activity
-    - X Commits
-    - X Pull requests reviewed
-    - X Pull requests opened
-    - X Issues opened
-    - X Issue comments
-
-    ### Community Stats
-    - Member of X organizations
-    - Following X users
-    - Sponsoring X repositories
-    - Starred X repositories
-    - Watching X repositories
-
-    ### Notable Contributions
-    [![GitHub User 1](https://img.shields.io/badge/-User1-white?logo=github&logoColor=black)](https://github.com/user1)
-    [![GitHub User 2](https://img.shields.io/badge/-User2-white?logo=github&logoColor=black)](https://github.com/user2)
-    <!-- Add more as needed -->
-  </div>
-  <div style="flex: 1;">
-    <a href="https://app.daily.dev/alaeddineriahi"><img src="https://api.daily.dev/devcards/v2/kFL6KlP0tQwzls678Vy4P.png?type=default&r=afg" width="350" alt="Ala-Eddine Riahi's Dev Card"/></a>
-  </div>
-</div>
+<img src="https://raw.githubusercontent.com/alaeddineriahi/alaeddineriahi/metric/achievements.svg">
