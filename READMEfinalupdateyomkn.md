@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,bash,linux,arduino,git,,mysql,qt,azure&perline=8" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,bash,linux,arduino,git,,mysql&perline=8" alt="Tech Stack"/>
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 ## 🔧 Frameworks
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=symfony,javafx,qt,flutter&perline=4" alt="Frameworks"/>
+    <img src="https://skillicons.dev/icons?i=symfony,java,qt,flutter&perline=4" alt="Frameworks"/>
   </a>
 </p>
 
