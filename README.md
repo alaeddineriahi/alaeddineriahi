@@ -17,9 +17,11 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,bash&perline=8" alt="Tech Stack"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux,arduino,git,githubactions,mysql,qt,azure&perline=8" alt="Tech Stack"/></a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,bash,linux,arduino,git,githubactions,mysql,qt,azure&perline=8" alt="Tech Stack"/>
+  </a>
 </p>
+
 
 ## 🔧 Frameworks
 <p align="center">
