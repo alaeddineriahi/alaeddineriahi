@@ -13,6 +13,7 @@
   <a href="https://wakatime.com/@cc489cd5-4341-43c0-8c5a-1e6cd99b30ac">
     <img src="https://wakatime.com/badge/user/cc489cd5-4341-43c0-8c5a-1e6cd99b30ac.svg" alt="Total time coded" />
   </a>
+  <a href="https://app.daily.dev/alaeddineriahi"><img src="https://api.daily.dev/devcards/v2/kFL6KlP0tQwzls678Vy4P.png?type=wide&r=afg" width="652" alt="Ala-Eddine Riahi's Dev Card"/></a>
 </p>
 
 ## 🛠️ Tech Stack
