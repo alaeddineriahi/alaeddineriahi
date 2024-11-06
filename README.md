@@ -19,7 +19,6 @@
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,bash&perline=8" alt="Tech Stack"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linux,arduino,git,githubactions,mysql,qt,azure&perline=8" alt="Tech Stack"/></a>
-  <img src="https://via.placeholder.com/40" alt="Oracle" width="40" height="40"/>
 </p>
 
 ## 🔧 Frameworks
