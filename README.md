@@ -6,7 +6,7 @@
 - 💬 **Ask Me About**: Game development, C/C++ desktop apps, websites, mobile apps, and solving tough coding problems.
 - ⚡ **Fun Fact**: I'm always ready for a coding challenge!
 
-[![Ala-Eddine Riahi's Dev Card](https://api.daily.dev/devcards/v2/kFL6KlP0tQwzls678Vy4P.png?type=default&r=afg)](https://app.daily.dev/alaeddineriahi)
+<a href="https://app.daily.dev/alaeddineriahi"><img src="https://api.daily.dev/devcards/v2/kFL6KlP0tQwzls678Vy4P.png?type=wide&r=afg" width="652" alt="Ala-Eddine Riahi's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aleddine.riahi)
