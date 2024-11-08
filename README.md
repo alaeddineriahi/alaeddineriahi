@@ -13,9 +13,7 @@
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://app.daily.dev/alaeddineriahi">
-    <img src="https://api.daily.dev/devcards/v2/kFL6KlP0tQwzls678Vy4P.png?type=wide&r=afg" width="400" alt="Ala-Eddine Riahi's Dev Card"/>
-  </a>
+  
   <a href="https://roadmap.sh">
     <img src="https://roadmap.sh/card/wide/672dd20031d65c235d683786?variant=light&roadmaps=ai-data-scientist" width="400" alt="roadmap.sh"/>
   </a>
